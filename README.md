@@ -6,7 +6,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8B5CF6&width=600&lines=Hello%2C+I'm+Prateek+Saxena;Software+Engineer+%40+NYU+Tandon;Systems+%7C+Cloud+%7C+AI+Evaluation" alt="Software Engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8B5CF6&width=600&lines=Hello%2C+I'm+Prateek+Saxena;MSCS+%40+NYU+Tandon;Systems+%7C+Cloud+%7C+AI+Evaluation" alt="Software Engineer"/>
 </a>
 
 M.S. Computer Science student at **NYU Tandon** with 4 years of industry experience in backend systems, cloud infrastructure, and testing and evaluating AI in production. **Looking for Summer 2027 software engineering internships.**
@@ -18,7 +18,9 @@ M.S. Computer Science student at **NYU Tandon** with 4 years of industry experie
 
 ### On GitHub
 
-**[dunderchat](https://github.com/prateeks99/dunderchat)**: a real-time chat app using Socket.IO and Redis pub/sub to fan out messages across horizontally scaled nodes. Deployed on GCP Cloud Run with a Next.js front end.
+- **[python-select-ai](https://github.com/oracle/python-select-ai)**: Oracle's open-source Python SDK for Select AI, which I designed and shipped. It provides one client interface for NL2SQL, RAG, agentic, and vector-search applications on Autonomous Database (`pip install select_ai`).
+- **[dunderchat](https://github.com/prateeks99/dunderchat)**: a real-time chat app using Socket.IO and Redis pub/sub to fan out messages across horizontally scaled nodes. Deployed on GCP Cloud Run with a Next.js front end.
+- **exptrack**: a full-stack expense tracker with a Spring Boot (Java) REST backend on DynamoDB and a React front end ([backend](https://github.com/prateeks99/exptrack_springboot) · [frontend](https://github.com/prateeks99/exptrack_react)).
 
 ### Skills
 
